@@ -1,6 +1,7 @@
 # ScreanMatch
 
 ScreanMatch é uma aplicação web que utiliza uma API em Java Spring Boot para exibir dados de filmes e séries. A aplicação tem um frontend dinâmico construído com JavaScript, que se comunica com a API para buscar e exibir informações detalhadas sobre séries, temporadas e episódios.
+
 ![alt text](image.png)
 ![alt text](detail.png)
 ## Funcionalidades
